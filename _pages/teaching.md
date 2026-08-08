@@ -7,9 +7,9 @@ author_profile: true
 
 ### Teaching activity:
 - May - June 2024: teacher assistant for the course ``Numerical Methods for Differential Equations (Metodi Numerici per Equazioni Differenziali)'', MSc in Mathematics, U. Udine (I), 6h;
-- December 2023: teacher assistant for the course ``Approximation Theory and Methods (Teoria e Metodi di Approssimazione)'', MSc in Matheamtics, U. Udine (I), 6h;
+- December 2023: teacher assistant for the course ``Approximation Theory and Methods (Teoria e Metodi di Approssimazione)'', MSc in Mathematics, U. Udine (I), 6h;
 - October - November 2023: teacher assistant for the course  ``Mathematical Analysis I (Analisi Matematica I)'', BSc in Mathematics, U. Udine (I), 12h;
-- October - December 2022: teacher assistant for the course ``Approximation Theory and Methods (Teoria e Metodi di Approssimazione)'', MSc in Matheamtics, U. Udine (I), 10h;
+- October - December 2022: teacher assistant for the course ``Approximation Theory and Methods (Teoria e Metodi di Approssimazione)'', MSc in Mathematics, U. Udine (I), 10h;
 - October - December 2022: teacher assistant for the course  ``Mathematical Analysis I (Analisi Matematica I)'', BSc in Mathematics, U. Udine (I), 14h;
 - October - December 2022: teacher assistant for the course ''General Mathematics (Matematica Generale)'', BSc in Banking and Finance, Pordenone, U. Udine (I), 24h;
 - October - December 2021: teacher assistant for the course ''General Mathematics (Matematica Generale)'', BSc in Banking and Finance, Pordenone, U. Udine (I), 24h;
