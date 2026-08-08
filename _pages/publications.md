@@ -15,7 +15,7 @@ author_profile: true
 
 Some of these papers are not on open access. If you are interested in one of these, please, do no hesitate to contact me.
 
-- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $R_0$ in periodic environments, to appear in SIAM J. Sci. Comp., [link](https://doi.org/10.1137/25M1789585);
+- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $$R_0$$ in periodic environments, to appear in SIAM J. Sci. Comp., [link](https://doi.org/10.1137/25M1789585);
 
 - S. De Reggi, F. Scarabel, R. Vermiglio, ``On the convergence of the pseudospectral approximation of reproduction numbers for age-structured models'', SIAM J. Numer. Anal., 64 (4), 2026, 1073--1094, [link](https://doi.org/10.1137/24M1687224);
 
@@ -32,7 +32,7 @@ Some of these papers are not on open access. If you are interested in one of the
 
 - A. Andò, S. De Reggi, D. Liessi, F. Scarabel, ``A pseudospectral method for investigating the stability of linear population models with two physiological structures'', Math. Biosci. Eng., 20 (3), 2023, 4493--4515, [link](https://doi.org/10.3934/mbe.2023208);
 
-- D. Breda, S. De Reggi, F, Scarabel, R. Vermiglio, J. Wu, ``Bivariate collocation for computing $R_0$ in epidemic models with two structures'', Comput. Math. Appl., 116, 2022, 15--24, [link](https://doi.org/10.1016/j.camwa.2021.10.026).
+- D. Breda, S. De Reggi, F, Scarabel, R. Vermiglio, J. Wu, ``Bivariate collocation for computing $$R_0$$ in epidemic models with two structures'', Comput. Math. Appl., 116, 2022, 15--24, [link](https://doi.org/10.1016/j.camwa.2021.10.026).
 
 
 
