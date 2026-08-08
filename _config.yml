@@ -30,12 +30,12 @@ author:
   location         : # "Italy"
   employer         : "University of Trento"
   uri              : # URL
-  email            : "simonedereggi@outlook.com" 
+  email            : "simone.dereggi@unitn.it" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # "https://arxiv.org/search/?searchtype=author&query=De+Reggi%2C+S" # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=JIhIUqoAAAAJ&hl=it&oi=ao"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=De+Reggi%2C+S" # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=JIhIUqoAAAAJ&hl=it&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1988-2133"
