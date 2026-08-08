@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematical and Physical Sciences, University of Udine, May 2025.
+    * Supervisor: Dimitri Breda
+    * Co-supervisor: Rossana Vermiglio
+
+* MSc in Mathematics, University of Udine, October 2020.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2024 - October 2026: research fellowship holder
+  * University of Trento (I)
+  * Topic: Computational methods for vector-transmitted infections
+  * Supervisor: Andrea Pugliese
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+* September - October 2021: High School Mathematics Teacher
+  * Liceo artistico ``G. Sello'', Udine (I)
+   
+* October 2020 - June 2021: High School Mathematics and Physics Teacher
+  * Liceo Coreutico dell'Educandato Statale ``Collegio Uccellis'', Udine (I)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Groups and Labs
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- CDLab - Computational Dynamics Laboratory, Dipartimento di Scienze Matematiche, Fisiche e Informatiche, University of Udine;
+- ESMTB - European Society for Mathematical and Theoretical Biology;
+- GNCS - Gruppo Nazionale per il Calcolo Scientifico, INdAM;
+- MBM lab - Laboratory of Mathematics for Biology And Medicine, Dipartimento di Matematica, University of Trento;
+- Modellistica Socio-Epidemiologica (MSE), UMI.
+
+Reviewer activity
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+### Journals:
+- Calcolo,
+- Journal of Computational and Applied Mathematics,
+- Journal of Biological Dynamics,
+- Journal of Mathematical Biology,
+- Mathematical Biosciences,
+- Mathematical Biosciences and Engineering,
+- Mathematical Methods in the Applied Sciences,
+- Mathematical Modelling and Analysis.
+
+### Conferences:
+- ECC (European Control Conference),
+- Joint SSSC, TDS, COSY conference.
