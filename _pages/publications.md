@@ -35,10 +35,4 @@ Some of these papers are not on open access. If you are interested in one of the
 1. D. Breda, S. De Reggi, F, Scarabel, R. Vermiglio, J. Wu, ``Bivariate collocation for computing $R_0$ in epidemic models with two structures'', Comput. Math. Appl., 116, 2022, 15--24, 10.1016/j.camwa.2021.10.026.
 
 
-# ---
-# *: Student under my supervision
-# $^{+}$: Equal contribution
-
-
-
 
