@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Hi there, I am glad you are interested in my research. Unfortunately, some of these papers are not available in open access. 
+Nevertheless, if you are interested in one of these, do no hesitate to contact me.
+
+
 ### Preprints
 
 - S. De Reggi, S. Guo, M. Iannelli, A. Pugliese, X. Tian, ``Bifurcation analysis for a size-structured predator-prey model with self-regulation and resource-dependent growth rates'', 2026, submitted for publication.
@@ -12,8 +16,6 @@ author_profile: true
 
 ---
 ### Publications
-
-Some of these papers are not on open access. If you are interested in one of these, please, do no hesitate to contact me.
 
 - D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $$R_0$$ in periodic environments, to appear in SIAM J. Sci. Comp., [link](https://doi.org/10.1137/25M1789585);
 
