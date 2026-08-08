@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=De+Reggi%2C+S" # URL - Update with the correct link to your profile
+  arxiv            : # "https://arxiv.org/search/?searchtype=author&query=De+Reggi%2C+S" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=JIhIUqoAAAAJ&hl=it&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -52,6 +52,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/SIMONEDEREGGI"
+  gitlab           : "https://gitlab.com/SIMONE.DEREGGI"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
