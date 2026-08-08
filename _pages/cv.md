@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Mathematical and Physical Sciences, University of Udine, May 2025.
-    * Supervisor: Dimitri Breda
-    * Co-supervisor: Rossana Vermiglio
+    * Supervisor: D. Breda
+    * Co-supervisor: R. Vermiglio
 
 * MSc in Mathematics, University of Udine, October 2020.
 
@@ -22,7 +22,7 @@ Work experience
 * November 2024 - October 2026: research fellowship holder
   * University of Trento (I)
   * Topic: Computational methods for vector-transmitted infections
-  * Supervisor: Andrea Pugliese
+  * Supervisor: A. Pugliese
 
   
 * September - October 2021: High School Mathematics Teacher
