@@ -19,7 +19,7 @@ Some of these papers are not on open access. If you are interested in one of the
 
 - S. De Reggi, F. Scarabel, R. Vermiglio, ``On the convergence of the pseudospectral approximation of reproduction numbers for age-structured models'', SIAM J. Numer. Anal., 64 (4), 2026, 1073--1094, [link](https://doi.org/10.1137/24M1687224);
 
-- A. Pugliese, S. De Reggi, ``A personal overview of epidemic models for mosquito-borne infections'', Math. Biosci. Eng., 23 (5), 2026, 1289--1314, [link](10.3934/mbe.2026047);
+- A. Pugliese, S. De Reggi, ``A personal overview of epidemic models for mosquito-borne infections'', Math. Biosci. Eng., 23 (5), 2026, 1289--1314, [link](https://doi.org/10.3934/mbe.2026047);
 
 - A. Andò, S. De Reggi, F. Scarabel, R. Vermiglio, J. Wu, ``Behavior-induced oscillations in epidemic outbreaks with distributed memory: beyond the linear chain trick using numerical methods'', Math. Biosci. Eng.,
 23 (1), 2026, 76--96, [link](https://doi.org/10.3934/mbe.2026004);
