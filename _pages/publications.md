@@ -21,7 +21,7 @@ Nevertheless, if you are interested in one of these, do no hesitate to contact m
 
 - S. De Reggi, A. Pugliese, M. Sensi, C. Soresina, ``A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour'', to appear on J. Math. Biol., 2026, ArXiv preprint: [link](https://arxiv.org/abs/2511.16802).
 
-- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $$R_0$$ in periodic environments'', SIAM J. Sci. Comp., 48 (5), 2026, 2728--2752, [link](https://doi.org/10.1137/25M1789585);
+- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of R0 in periodic environments'', SIAM J. Sci. Comp., 48 (5), 2026, 2728--2752, [link](https://doi.org/10.1137/25M1789585);
 
 - S. De Reggi, F. Scarabel, R. Vermiglio, ``On the convergence of the pseudospectral approximation of reproduction numbers for age-structured models'', SIAM J. Numer. Anal., 64 (4), 2026, 1073--1094, [link](https://doi.org/10.1137/24M1687224);
 
@@ -38,7 +38,7 @@ Nevertheless, if you are interested in one of these, do no hesitate to contact m
 
 - A. Andò, S. De Reggi, D. Liessi, F. Scarabel, ``A pseudospectral method for investigating the stability of linear population models with two physiological structures'', Math. Biosci. Eng., 20 (3), 2023, 4493--4515, [link](https://doi.org/10.3934/mbe.2023208);
 
-- D. Breda, S. De Reggi, F, Scarabel, R. Vermiglio, J. Wu, ``Bivariate collocation for computing $$R_0$$ in epidemic models with two structures'', Comput. Math. Appl., 116, 2022, 15--24, [link](https://doi.org/10.1016/j.camwa.2021.10.026).
+- D. Breda, S. De Reggi, F, Scarabel, R. Vermiglio, J. Wu, ``Bivariate collocation for computing R0 in epidemic models with two structures'', Comput. Math. Appl., 116, 2022, 15--24, [link](https://doi.org/10.1016/j.camwa.2021.10.026).
 
 
 
