@@ -15,12 +15,13 @@ Nevertheless, if you are interested in one of these, do no hesitate to contact m
 ### Preprints
 
 - S. De Reggi, S. Guo, M. Iannelli, A. Pugliese, X. Tian, ``Bifurcation analysis for a size-structured predator-prey model with self-regulation and resource-dependent growth rates'', 2026, submitted for publication.
-- S. De Reggi, A. Pugliese, M. Sensi, C. Soresina, ``A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour'', 2025, submitted for publication. ArXiv preprint: [link](https://arxiv.org/abs/2511.16802).
 
 ---
 ### Publications
 
-- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $$R_0$$ in periodic environments, to appear in SIAM J. Sci. Comp., [link](https://doi.org/10.1137/25M1789585);
+- S. De Reggi, A. Pugliese, M. Sensi, C. Soresina, ``A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour'', to appear on J. Math. Biol., 2026, ArXiv preprint: [link](https://arxiv.org/abs/2511.16802).
+
+- D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of $$R_0$$ in periodic environments'', SIAM J. Sci. Comp., 48 (5), 2026, 2728--2752, [link](https://doi.org/10.1137/25M1789585);
 
 - S. De Reggi, F. Scarabel, R. Vermiglio, ``On the convergence of the pseudospectral approximation of reproduction numbers for age-structured models'', SIAM J. Numer. Anal., 64 (4), 2026, 1073--1094, [link](https://doi.org/10.1137/24M1687224);
 
