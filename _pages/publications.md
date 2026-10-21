@@ -10,16 +10,12 @@ author_profile: true
 I am glad you are interested in my research. Unfortunately, some of these papers are not available in open access. 
 Nevertheless, if you are interested in one of these, do no hesitate to contact me.
 
---- 
-
-### Preprints
-
-- S. De Reggi, S. Guo, M. Iannelli, A. Pugliese, X. Tian, ``Bifurcation analysis for a size-structured predator-prey model with self-regulation and resource-dependent growth rates'', 2026, submitted for publication.
-
 ---
 ### Publications
 
-- S. De Reggi, A. Pugliese, M. Sensi, C. Soresina, ``A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour'', to appear on J. Math. Biol., 2026, ArXiv preprint: [link](https://arxiv.org/abs/2511.16802).
+- S. De Reggi, S. Guo, M. Iannelli, A. Pugliese, X. Tian, ``Bifurcation analysis for a size-structured predator-prey model with self-regulation and resource-dependent growth rates'',  Discrete Contin. Dyn. Syst. Ser. S, 2026, [link](https://doi.org/10.3934/dcdss.2026261).
+
+- S. De Reggi, A. Pugliese, M. Sensi, C. Soresina, ``A model for mosquito-borne epidemic outbreaks with information-dependent protective behaviour'', J. Math. Biol., 93 (58), 2026, OPEN ACCESS, [link](https://doi.org/10.1007/s00285-026-02472-5).
 
 - D. Breda, S. De Reggi, J. Ripoll, ``On the numerical computation of R0 in periodic environments'', SIAM J. Sci. Comp., 48 (5), 2026, 2728--2752, [link](https://doi.org/10.1137/25M1789585);
 
