@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* October 2026 - present : High School Mathematics Teacher
+  * Istituto Tecnico Statale ``A. Volta'', Trieste (I)
+
+* November 2024 - October 2026: research fellowship holder
+  * University of Trento (I)
+  * Topic: Computational methods for vector-transmitted infections
+  * Supervisor: A. Pugliese
+  
+* September - October 2021: High School Mathematics Teacher
+  * Liceo artistico ``G. Sello'', Udine (I)
+   
+* October 2020 - June 2021: High School Mathematics and Physics Teacher
+  * Liceo Coreutico dell'Educandato Statale ``Collegio Uccellis'', Udine (I)
+    
 Education
 ======
 * PhD in Mathematical and Physical Sciences, University of Udine, May 2025.
@@ -16,21 +32,6 @@ Education
     * Co-supervisor: R. Vermiglio
 
 * MSc in Mathematics, University of Udine, October 2020.
-
-Work experience
-======
-* November 2024 - October 2026: research fellowship holder
-  * University of Trento (I)
-  * Topic: Computational methods for vector-transmitted infections
-  * Supervisor: A. Pugliese
-
-  
-* September - October 2021: High School Mathematics Teacher
-  * Liceo artistico ``G. Sello'', Udine (I)
-   
-* October 2020 - June 2021: High School Mathematics and Physics Teacher
-  * Liceo Coreutico dell'Educandato Statale ``Collegio Uccellis'', Udine (I)
-
 
 Groups and Labs
 ======
